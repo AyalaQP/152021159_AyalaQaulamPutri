@@ -1,0 +1,42 @@
+﻿  152021159_AyalaQaulamPutri.cpp
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(20,12): warning C4101: 'y': unreferenced local variable
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(20,9): warning C4101: 'x': unreferenced local variable
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(64,52): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(64,52): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(64,52): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(66,10): error C2182: 'totalx': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(71,5): error C2562: 'ZigmaX': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(64,6): message : see declaration of 'ZigmaX'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(74,52): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(74,52): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(74,52): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(76,10): error C2182: 'totaly': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(81,5): error C2562: 'ZigmaY': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(74,6): message : see declaration of 'ZigmaY'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,61): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,61): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,61): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,77): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,77): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,77): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(86,10): error C2182: 'kalixy': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(91,5): error C2562: 'ZigmaXY': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(84,6): message : see declaration of 'ZigmaXY'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(94,54): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(94,54): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(94,54): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(96,10): error C2182: 'pangkat': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(101,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(103,5): error C2562: 'ZigmaX2': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(94,6): message : see declaration of 'ZigmaX2'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(106,54): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(106,54): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(106,54): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(108,10): error C2182: 'pangkat': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(113,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(115,5): error C2562: 'ZigmaY2': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(106,6): message : see declaration of 'ZigmaY2'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(120,10): error C2182: 'akhir': this use of 'void' is not valid
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(123,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(125,5): error C2562: 'HasilR': 'void' function returning a value
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri\152021159_AyalaQaulamPutri.cpp(118,6): message : see declaration of 'HasilR'
